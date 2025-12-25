@@ -49,9 +49,9 @@ npm install
 ### 4. Configure Environment Variables
 
 Create  `backend/.env` file:
-I have provided the .env file just paste it in the backend directory.
+I have provided the .env file on the email just paste it in the backend directory.
 
-Open two terminals and start the servers separelt by using both commands below.
+Open two terminals and start the servers separately  by using both commands below.
 
 ### 5. Start Backend Server
 
