@@ -1,0 +1,13 @@
+{
+  "name": "social-lite",
+  "version": "1.0.0",
+  "description": "A simple social feed system",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "start-backend": "cd backend && npm run dev",
+    "start-frontend": "cd frontend && npm start"
+  },
+  "keywords": ["social", "feed", "react", "express", "mongodb"],
+  "author": "",
+  "license": "ISC"
+}
