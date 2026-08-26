@@ -57,7 +57,7 @@ function App() {
         <Router>
           <Routes>
             <Route
-              path="/login"
+              path="/logindsadadasd"
               element={user ? <Navigate to="/" /> : <Login />}
             />
             <Route
